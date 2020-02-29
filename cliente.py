@@ -29,3 +29,4 @@ obj.close()
 
 #Imprimimos la palabra Adios para cuando se cierre la conexion
 print("Conexión cerrada")
+//Checked
